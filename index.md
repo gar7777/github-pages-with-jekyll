@@ -1,3 +1,3 @@
-# Welcome to my blog
+# This is Gar's first page on GitHub
 
-I'm glad you are here. I plan to talk about ...
+I am in frustration!
